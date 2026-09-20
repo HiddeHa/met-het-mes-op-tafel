@@ -1,0 +1,9 @@
+- generic [ref=e15]:
+  - heading "Deelnemer — Deelnemer1" [level=1] [ref=e16]
+  - paragraph [ref=e17]:
+    - text: "Je geld:"
+    - strong [ref=e18]: €100
+    - text: "| Ronde 1/7 | Fase: LOBBY"
+  - generic [ref=e19]:
+    - heading "Je antwoorden dit spel" [level=3] [ref=e20]
+    - paragraph [ref=e21]: Nog geen antwoorden.

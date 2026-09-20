@@ -1,0 +1,18 @@
+- generic [ref=e13]:
+  - heading "Quizmaster — room_1789662069584" [level=1] [ref=e14]
+  - paragraph [ref=e15]: "Ronde 1/7 | Pot: €0 | Fase: LOBBY"
+  - button "Spel starten (1 deelnemers)" [disabled] [ref=e16]
+  - heading "Deelnemers" [level=3] [ref=e17]
+  - table [ref=e18]:
+    - rowgroup [ref=e19]:
+      - row [ref=e20]:
+        - columnheader "Naam" [ref=e21]
+        - columnheader "Geld" [ref=e22]
+        - columnheader "Inzet" [ref=e23]
+        - columnheader "Status" [ref=e24]
+    - rowgroup [ref=e25]:
+      - row [ref=e26]:
+        - cell "QuizMaster1 ⭐" [ref=e27]
+        - cell "€100" [ref=e28]
+        - cell "€0" [ref=e29]
+        - cell "✅ Actief" [ref=e30]

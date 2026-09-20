@@ -1,0 +1,10 @@
+- generic [ref=f4e3]:
+  - heading "Met het Mes op Tafel" [level=1] [ref=f4e4]
+  - generic [ref=f4e6]:
+    - text: "Speler naam:"
+    - textbox "Speler naam:" [ref=f4e7]: Q1
+  - generic [ref=f4e8]:
+    - button "Quizmaster" [active] [ref=f4e9]
+    - button "Deelnemer" [ref=f4e10]
+  - button "Roomp aanmaken" [ref=f4e11] [cursor=pointer]
+  - paragraph [ref=f4e12]: "Voor aparte apparaten: kiest Quizmaster \"Roomp aanmaken\", deelnemers typen de roomcode in. Voor demo op één machine: open twee tabs, één als Quizmaster, één als Deelnemer, gebruik dezelfde roomcode."

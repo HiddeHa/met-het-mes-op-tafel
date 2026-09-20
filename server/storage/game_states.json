@@ -1,0 +1,1005 @@
+{
+  "room_1789765575487": {
+    "roomId": "room_1789765575487",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789765598920": {
+    "roomId": "room_1789765598920",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789765772201": {
+    "roomId": "room_1789765772201",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789765828395": {
+    "roomId": "room_1789765828395",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789765882191": {
+    "roomId": "room_1789765882191",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789765937555": {
+    "roomId": "room_1789765937555",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789766017237": {
+    "roomId": "room_1789766017237",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789796221947": {
+    "roomId": "room_1789796221947",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789796267626": {
+    "roomId": "room_1789796267626",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789796759074": {
+    "roomId": "room_1789796759074",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789796799804": {
+    "roomId": "room_1789796799804",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789796896066": {
+    "roomId": "room_1789796896066",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789796943549": {
+    "roomId": "room_1789796943549",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789797030612": {
+    "roomId": "room_1789797030612",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789801864739": {
+    "roomId": "room_1789801864739",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789802290948": {
+    "roomId": "room_1789802290948",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789802366908": {
+    "roomId": "room_1789802366908",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789884751623": {
+    "roomId": "room_1789884751623",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789887363173": {
+    "roomId": "room_1789887363173",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789887483858": {
+    "roomId": "room_1789887483858",
+    "round": 1,
+    "phase": "BETTING_MANDATORY",
+    "pot": 0,
+    "players": [],
+    "questions": [
+      {
+        "category": "Wetenschap",
+        "question": "Wie ontdekte de zwaartekracht?",
+        "acceptableAnswers": [
+          "Newton",
+          "Isaac Newton"
+        ]
+      }
+    ],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789887660437": {
+    "roomId": "room_1789887660437",
+    "round": 1,
+    "phase": "QUESTIONS",
+    "pot": 100,
+    "players": [],
+    "questions": [
+      {
+        "category": "Geografie",
+        "question": "In welk land vind je de stad Santiago de Compostela?",
+        "acceptableAnswers": [
+          "Spanje"
+        ]
+      }
+    ],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 100,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "1789887660437": {
+    "roomId": "1789887660437",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789888000787": {
+    "roomId": "room_1789888000787",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789888037384": {
+    "roomId": "room_1789888037384",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789888064397": {
+    "roomId": "room_1789888064397",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789888082431": {
+    "roomId": "room_1789888082431",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789888127080": {
+    "roomId": "room_1789888127080",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789888149812": {
+    "roomId": "room_1789888149812",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789888173995": {
+    "roomId": "room_1789888173995",
+    "round": 1,
+    "phase": "GAME_OVER",
+    "pot": 100,
+    "players": [],
+    "questions": [
+      {
+        "category": "Geografie",
+        "question": "In welk land vind je de stad Santiago de Compostela?",
+        "acceptableAnswers": [
+          "Spanje"
+        ]
+      }
+    ],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 100,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789888214742": {
+    "roomId": "room_1789888214742",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789888701489": {
+    "roomId": "room_1789888701489",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789889054153": {
+    "roomId": "room_1789889054153",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789889129884": {
+    "roomId": "room_1789889129884",
+    "round": 1,
+    "phase": "BETTING",
+    "pot": 50,
+    "players": [],
+    "questions": [
+      {
+        "category": "Wetenschap",
+        "question": "Wie ontdekte de zwaartekracht?",
+        "acceptableAnswers": [
+          "Newton",
+          "Isaac Newton"
+        ]
+      }
+    ],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 50,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "1789889129884": {
+    "roomId": "1789889129884",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789890549665": {
+    "roomId": "room_1789890549665",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789890681318": {
+    "roomId": "room_1789890681318",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789890739643": {
+    "roomId": "room_1789890739643",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789890965949": {
+    "roomId": "room_1789890965949",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "1789890965949": {
+    "roomId": "1789890965949",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789892234174": {
+    "roomId": "room_1789892234174",
+    "round": 1,
+    "phase": "SCORE_DECLARATION",
+    "pot": 100,
+    "players": [],
+    "questions": [
+      {
+        "category": "Geografie",
+        "question": "In welk land vind je de stad Santiago de Compostela?",
+        "acceptableAnswers": [
+          "Spanje"
+        ]
+      }
+    ],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 70,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {
+      "ZR5meRDHPevRXdGYAAAB": [
+        "Spanje"
+      ],
+      "hyEwj_HsQZ4C5pdVAAAC": [
+        "Spanje"
+      ],
+      "uLnb7Zbp0-2URmPtAAAD": [
+        "Spanje"
+      ]
+    },
+    "shootoutCandidates": []
+  },
+  "room_1789892812574": {
+    "roomId": "room_1789892812574",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789892830980": {
+    "roomId": "room_1789892830980",
+    "round": 1,
+    "phase": "SCORE_DECLARATION",
+    "pot": 100,
+    "players": [],
+    "questions": [
+      {
+        "category": "Films",
+        "question": "Noem de titel van de filmserie met een Teenage Mutant Ninja Turtles",
+        "acceptableAnswers": [
+          "Teenage Mutant Ninja Turtles"
+        ]
+      }
+    ],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 70,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {
+      "XqYqckVilmNgCqSlAAAG": [
+        "Spanje"
+      ],
+      "vLZ1XvLgO0bRozHIAAAH": [
+        "Spanje"
+      ],
+      "thYMJrTlBy3Yus60AAAI": [
+        "Spanje"
+      ]
+    },
+    "shootoutCandidates": []
+  },
+  "room_1789893080794": {
+    "roomId": "room_1789893080794",
+    "round": 1,
+    "phase": "GAME_OVER",
+    "pot": 0,
+    "players": [],
+    "questions": [
+      {
+        "category": "Eten en drinken",
+        "question": "Van welke plant komt suiker voornamelijk?",
+        "acceptableAnswers": [
+          "suikerriet",
+          "riet",
+          "suikerbiet",
+          "biet"
+        ]
+      }
+    ],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 70,
+    "firstPlayerId": null,
+    "winnerId": "HWWqyZDU_0blreLAAAAK",
+    "playerAnswers": {},
+    "shootoutCandidates": [
+      "FDVUn82ocFVUtipoAAAJ",
+      "HWWqyZDU_0blreLAAAAK",
+      "iX1UasQEOItIs9n1AAAL",
+      "-vYbvVM86UJvsJESAAAM"
+    ]
+  },
+  "room_1789893434237": {
+    "roomId": "room_1789893434237",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "1789893434237": {
+    "roomId": "1789893434237",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": []
+  },
+  "room_1789893727072": {
+    "roomId": "room_1789893727072",
+    "round": 1,
+    "phase": "BETTING",
+    "pot": 10,
+    "players": [],
+    "questions": [
+      {
+        "category": "Eten en drinken",
+        "question": "Van welke plant komt suiker voornamelijk?",
+        "acceptableAnswers": [
+          "suikerriet",
+          "riet",
+          "suikerbiet",
+          "biet"
+        ]
+      }
+    ],
+    "currentQ": 0,
+    "mandatoryBet": 10,
+    "highestBet": 10,
+    "firstPlayerId": null,
+    "winnerId": "Vg16g-gWZkFwoxsOAAAB",
+    "playerAnswers": {},
+    "shootoutCandidates": [
+      "fyGz37HIfCoEtj7aAAAA",
+      "Vg16g-gWZkFwoxsOAAAB",
+      "2wGGdl8-h_FsYnAdAAAC",
+      "CKruVXIcLK007gxzAAAD"
+    ]
+  },
+  "test_room_001": {
+    "roomId": "test_room_001",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "shootoutQ": 1,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": [],
+    "questionAnsweredBy": [],
+    "phaseEndsAt": null
+  },
+  "game_test_1789909440510": {
+    "roomId": "game_test_1789909440510",
+    "round": 1,
+    "phase": "RESOLVE",
+    "pot": 0,
+    "players": [],
+    "questions": [
+      {
+        "category": "Films",
+        "question": "Noem de titel van de filmserie met een Teenage Mutant Ninja Turtles",
+        "acceptableAnswers": [
+          "Teenage Mutant Ninja Turtles"
+        ]
+      },
+      {
+        "category": "Kunst",
+        "question": "Van wie is het schilderij 'De Jordaansche boer'?",
+        "acceptableAnswers": [
+          "Vincent van Gogh",
+          "Van Gogh",
+          "Vincent"
+        ]
+      },
+      {
+        "category": "Sport",
+        "question": "Hoe heten de hobbels op een schaatsbaan in het Fries?",
+        "acceptableAnswers": [
+          "kupers"
+        ]
+      },
+      {
+        "category": "Muziek",
+        "question": "Wie zingt de tekst: 'Money money money, altijd moet ik geld betalen'?",
+        "acceptableAnswers": [
+          "ABBA"
+        ]
+      },
+      {
+        "category": "Eten en drinken",
+        "question": "Van welke plant komt suiker voornamelijk?",
+        "acceptableAnswers": [
+          "suikerriet",
+          "riet",
+          "suikerbiet",
+          "biet"
+        ]
+      }
+    ],
+    "currentQ": 3,
+    "shootoutQ": 4,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": [],
+    "questionAnsweredBy": [],
+    "phaseEndsAt": 1789909885580
+  },
+  "room_1789909778936": {
+    "roomId": "room_1789909778936",
+    "round": 1,
+    "phase": "RESOLVE",
+    "pot": 50,
+    "players": [],
+    "questions": [
+      {
+        "category": "Taal",
+        "question": "Wat is een synoniem van het woord 'onverzonnen'?",
+        "acceptableAnswers": [
+          "echt",
+          "waar",
+          "waarheid",
+          "authentiek"
+        ]
+      },
+      {
+        "category": "Kunst",
+        "question": "Van wie is het schilderij 'De Jordaansche boer'?",
+        "acceptableAnswers": [
+          "Vincent van Gogh",
+          "Van Gogh",
+          "Vincent"
+        ]
+      },
+      {
+        "category": "Films",
+        "question": "Noem de titel van de filmserie met een Teenage Mutant Ninja Turtles",
+        "acceptableAnswers": [
+          "Teenage Mutant Ninja Turtles"
+        ]
+      },
+      {
+        "category": "Eten en drinken",
+        "question": "Van welke plant komt suiker voornamelijk?",
+        "acceptableAnswers": [
+          "suikerriet",
+          "riet",
+          "suikerbiet",
+          "biet"
+        ]
+      },
+      {
+        "category": "Sport",
+        "question": "Hoe heten de hobbels op een schaatsbaan in het Fries?",
+        "acceptableAnswers": [
+          "kupers"
+        ]
+      }
+    ],
+    "currentQ": 3,
+    "shootoutQ": 4,
+    "mandatoryBet": 10,
+    "highestBet": 50,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": [],
+    "questionAnsweredBy": [],
+    "phaseEndsAt": 1789910234401
+  },
+  "1789909778936": {
+    "roomId": "1789909778936",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "shootoutQ": 1,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": [],
+    "questionAnsweredBy": [],
+    "phaseEndsAt": null
+  },
+  "room_1789910290491": {
+    "roomId": "room_1789910290491",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "shootoutQ": 1,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": [],
+    "questionAnsweredBy": [],
+    "phaseEndsAt": null
+  },
+  "room_1789910420092": {
+    "roomId": "room_1789910420092",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "shootoutQ": 1,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": [],
+    "questionAnsweredBy": [],
+    "phaseEndsAt": null
+  },
+  "room_1789910521071": {
+    "roomId": "room_1789910521071",
+    "round": 1,
+    "phase": "LOBBY",
+    "pot": 0,
+    "players": [],
+    "questions": [],
+    "currentQ": 0,
+    "shootoutQ": 1,
+    "mandatoryBet": 10,
+    "highestBet": 0,
+    "firstPlayerId": null,
+    "winnerId": null,
+    "playerAnswers": {},
+    "shootoutCandidates": [],
+    "questionAnsweredBy": [],
+    "phaseEndsAt": null
+  }
+}

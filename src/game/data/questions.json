@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "ges-1",
+    "category": "Geschiedenis",
+    "difficulty": 1,
+    "question": "In welk jaar begon de Tweede Wereldoorlog in Europa?",
+    "answers": [
+      "1939",
+      "1 september 1939"
+    ],
+    "choices": [
+      "1938",
+      "1939",
+      "1940",
+      "1941"
+    ],
+    "hint": "Het begon met de Duitse inval in Polen."
+  },
+  {
+    "id": "ges-2",
+    "category": "Geschiedenis",
+    "difficulty": 1,
+    "question": "Wie was de eerste president van de Verenigde Staten?",
+    "answers": [
+      "George Washington",
+      "Washington"
+    ],
+    "choices": [
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "George Washington",
+      "John Adams"
+    ],
+    "hint": "Hij gaf zijn naam aan de Amerikaanse hoofdstad."
+  },
+  {
+    "id": "ges-3",
+    "category": "Geschiedenis",
+    "difficulty": 2,
+    "question": "Welke stad werd in 79 na Christus bedolven onder de as van de Vesuvius?",
+    "answers": [
+      "Pompeii",
+      "Pompeï"
+    ],
+    "choices": [
+      "Herculaneum",
+      "Napels",
+      "Pompeii",
+      "Ostia"
+    ],
+    "hint": "De opgravingen liggen vlak bij Napels."
+  },
+  {
+    "id": "ges-4",
+    "category": "Geschiedenis",
+    "difficulty": 2,
+    "question": "Wie leidde de Spaanse verovering van het Incarijk?",
+    "answers": [
+      "Francisco Pizarro",
+      "Pizarro"
+    ],
+    "choices": [
+      "Hernán Cortés",
+      "Vasco da Gama",
+      "Francisco Pizarro",
+      "Ferdinand Magellan"
+    ],
+    "hint": "Zijn naam begint met een P."
+  },
+  {
+    "id": "ges-5",
+    "category": "Geschiedenis",
+    "difficulty": 2,
+    "question": "In welk jaar viel de Berlijnse Muur?",
+    "answers": [
+      "1989"
+    ],
+    "choices": [
+      "1987",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "hint": "Het gebeurde in november, twee jaar voor het einde van de USSR."
+  },
+  {
+    "id": "ges-6",
+    "category": "Geschiedenis",
+    "difficulty": 3,
+    "question": "Welke Romeinse keizer liet een muur dwars door Noord-Brittannië bouwen?",
+    "answers": [
+      "Hadrianus",
+      "Hadrian"
+    ],
+    "choices": [
+      "Augustus",
+      "Nero",
+      "Hadrianus",
+      "Trajanus"
+    ],
+    "hint": "De muur draagt nog altijd zijn naam."
+  },
+  {
+    "id": "ges-7",
+    "category": "Geschiedenis",
+    "difficulty": 3,
+    "question": "Welk verdrag maakte in 1648 een einde aan de Tachtigjarige Oorlog?",
+    "answers": [
+      "Vrede van Münster",
+      "Münster",
+      "Vrede van Westfalen"
+    ],
+    "choices": [
+      "Vrede van Utrecht",
+      "Vrede van Münster",
+      "Verdrag van Versailles",
+      "Vrede van Aken"
+    ],
+    "hint": "Het werd getekend in een Duitse stad in Westfalen."
+  },
+  {
+    "id": "muz-1",
+    "category": "Muziek",
+    "difficulty": 1,
+    "question": "Wie componeerde de Negende Symfonie met de 'Ode an die Freude'?",
+    "answers": [
+      "Beethoven",
+      "Ludwig van Beethoven"
+    ],
+    "choices": [
+      "Mozart",
+      "Johann Sebastian Bach",
+      "Beethoven",
+      "Haydn"
+    ],
+    "hint": "Hij werd op latere leeftijd doof."
+  },
+  {
+    "id": "muz-2",
+    "category": "Muziek",
+    "difficulty": 1,
+    "question": "Welke Britse band bracht in 1975 'Bohemian Rhapsody' uit?",
+    "answers": [
+      "Queen"
+    ],
+    "choices": [
+      "The Beatles",
+      "Led Zeppelin",
+      "ABBA",
+      "Queen"
+    ],
+    "hint": "Freddie Mercury was de zanger."
+  },
+  {
+    "id": "muz-3",
+    "category": "Muziek",
+    "difficulty": 2,
+    "question": "Wie zong 'Ain't No Mountain High Enough' samen met Tammi Terrell?",
+    "answers": [
+      "Marvin Gaye",
+      "Gaye"
+    ],
+    "choices": [
+      "Stevie Wonder",
+      "Otis Redding",
+      "Marvin Gaye",
+      "Smokey Robinson"
+    ],
+    "hint": "Hij scoorde ook met 'Sexual Healing'."
+  },
+  {
+    "id": "muz-4",
+    "category": "Muziek",
+    "difficulty": 2,
+    "question": "Welke Nederlandse band won in 1975 het Eurovisiesongfestival met 'Ding-a-Dong'?",
+    "answers": [
+      "Teach-In",
+      "Teach In"
+    ],
+    "choices": [
+      "ABBA",
+      "The Cats",
+      "Mouth & MacNeal",
+      "Teach-In"
+    ],
+    "hint": "De naam is Engels voor 'lesgeven'."
+  },
+  {
+    "id": "muz-5",
+    "category": "Muziek",
+    "difficulty": 2,
+    "question": "Uit welke stad komt de band U2?",
+    "answers": [
+      "Dublin"
+    ],
+    "choices": [
+      "Belfast",
+      "Londen",
+      "Dublin",
+      "Glasgow"
+    ],
+    "hint": "De hoofdstad van Ierland."
+  },
+  {
+    "id": "muz-6",
+    "category": "Muziek",
+    "difficulty": 3,
+    "question": "Wie componeerde 'Le Sacre du printemps' (The Rite of Spring)?",
+    "answers": [
+      "Stravinsky",
+      "Igor Stravinsky"
+    ],
+    "choices": [
+      "Maurice Ravel",
+      "Claude Debussy",
+      "Sergej Prokofjev",
+      "Igor Stravinsky"
+    ],
+    "hint": "Het werk veroorzaakte in 1913 een rel in Parijs."
+  },
+  {
+    "id": "muz-7",
+    "category": "Muziek",
+    "difficulty": 3,
+    "question": "Welke jazztrompettist maakte het album 'Kind of Blue' uit 1959?",
+    "answers": [
+      "Miles Davis",
+      "Davis"
+    ],
+    "choices": [
+      "John Coltrane",
+      "Dizzy Gillespie",
+      "Louis Armstrong",
+      "Miles Davis"
+    ],
+    "hint": "Zijn voornaam is ook een afstandsmaat."
+  },
+  {
+    "id": "geo-1",
+    "category": "Geografie",
+    "difficulty": 1,
+    "question": "Wat is de hoofdstad van Australië?",
+    "answers": [
+      "Canberra"
+    ],
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "hint": "Het is niet de grootste stad van het land."
+  },
+  {
+    "id": "geo-2",
+    "category": "Geografie",
+    "difficulty": 1,
+    "question": "Welke rivier stroomt door Parijs?",
+    "answers": [
+      "Seine",
+      "de Seine"
+    ],
+    "choices": [
+      "Loire",
+      "Rhône",
+      "Maas",
+      "Seine"
+    ],
+    "hint": "De Eiffeltoren staat aan de oever."
+  },
+  {
+    "id": "geo-3",
+    "category": "Geografie",
+    "difficulty": 2,
+    "question": "Wat is het grootste land ter wereld qua oppervlakte?",
+    "answers": [
+      "Rusland",
+      "Russia",
+      "Russische Federatie"
+    ],
+    "choices": [
+      "Canada",
+      "China",
+      "Verenigde Staten",
+      "Rusland"
+    ],
+    "hint": "Het ligt op twee continenten."
+  },
+  {
+    "id": "geo-4",
+    "category": "Geografie",
+    "difficulty": 2,
+    "question": "Aan welke zee ligt de Kroatische stad Dubrovnik?",
+    "answers": [
+      "Adriatische Zee",
+      "Adriatisch",
+      "Adriatic"
+    ],
+    "choices": [
+      "Middellandse Zee",
+      "Zwarte Zee",
+      "Egeïsche Zee",
+      "Adriatische Zee"
+    ],
+    "hint": "De zee ligt tussen Italië en de Balkan."
+  },
+  {
+    "id": "geo-5",
+    "category": "Geografie",
+    "difficulty": 2,
+    "question": "Wat is de hoofdstad van Canada?",
+    "answers": [
+      "Ottawa"
+    ],
+    "choices": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Ottawa"
+    ],
+    "hint": "Het ligt in Ontario, maar het is niet Toronto."
+  },
+  {
+    "id": "geo-6",
+    "category": "Geografie",
+    "difficulty": 3,
+    "question": "Welk Afrikaans land heeft de meeste inwoners?",
+    "answers": [
+      "Nigeria"
+    ],
+    "choices": [
+      "Egypte",
+      "Ethiopië",
+      "Zuid-Afrika",
+      "Nigeria"
+    ],
+    "hint": "De hoofdstad is Abuja."
+  },
+  {
+    "id": "geo-7",
+    "category": "Geografie",
+    "difficulty": 3,
+    "question": "Welke bergketen vormt de klassieke grens tussen Europa en Azië?",
+    "answers": [
+      "Oeral",
+      "Oeralgebergte",
+      "Ural",
+      "Oeralbergen"
+    ],
+    "choices": [
+      "Kaukasus",
+      "Alpen",
+      "Himalaya",
+      "Oeral"
+    ],
+    "hint": "Er stroomt ook een rivier met die naam."
+  },
+  {
+    "id": "kun-1",
+    "category": "Kunst",
+    "difficulty": 1,
+    "question": "Wie schilderde de 'Mona Lisa'?",
+    "answers": [
+      "Leonardo da Vinci",
+      "Da Vinci",
+      "Leonardo"
+    ],
+    "choices": [
+      "Michelangelo",
+      "Rembrandt",
+      "Leonardo da Vinci",
+      "Rafaël"
+    ],
+    "hint": "Hij was ook uitvinder en ingenieur."
+  },
+  {
+    "id": "kun-2",
+    "category": "Kunst",
+    "difficulty": 1,
+    "question": "Wie schilderde 'De Nachtwacht'?",
+    "answers": [
+      "Rembrandt",
+      "Rembrandt van Rijn"
+    ],
+    "choices": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Vincent van Gogh",
+      "Frans Hals"
+    ],
+    "hint": "Het doek hangt in het Rijksmuseum."
+  },
+  {
+    "id": "kun-3",
+    "category": "Kunst",
+    "difficulty": 2,
+    "question": "Bij welke kunststroming hoort Salvador Dalí?",
+    "answers": [
+      "Surrealisme",
+      "Surrealist",
+      "Surrealistisch"
+    ],
+    "choices": [
+      "Kubisme",
+      "Impressionisme",
+      "Expressionisme",
+      "Surrealisme"
+    ],
+    "hint": "Dromen en het onderbewuste staan centraal."
+  },
+  {
+    "id": "kun-4",
+    "category": "Kunst",
+    "difficulty": 2,
+    "question": "In welk museum hangt 'Het Melkmeisje' van Johannes Vermeer?",
+    "answers": [
+      "Rijksmuseum",
+      "Het Rijksmuseum"
+    ],
+    "choices": [
+      "Mauritshuis",
+      "Van Gogh Museum",
+      "Rijksmuseum",
+      "Louvre"
+    ],
+    "hint": "Het museum staat in Amsterdam."
+  },
+  {
+    "id": "kun-5",
+    "category": "Kunst",
+    "difficulty": 2,
+    "question": "Wie ontwierp het Guggenheim Museum in Bilbao?",
+    "answers": [
+      "Frank Gehry",
+      "Gehry"
+    ],
+    "choices": [
+      "Frank Lloyd Wright",
+      "Zaha Hadid",
+      "Rem Koolhaas",
+      "Frank Gehry"
+    ],
+    "hint": "Het gebouw lijkt op een metalen schip."
+  },
+  {
+    "id": "kun-6",
+    "category": "Kunst",
+    "difficulty": 3,
+    "question": "Welke kunstenaar sneed in 1888 een stuk van zijn oor af?",
+    "answers": [
+      "Vincent van Gogh",
+      "Van Gogh"
+    ],
+    "choices": [
+      "Paul Gauguin",
+      "Edvard Munch",
+      "Vincent van Gogh",
+      "Henri de Toulouse-Lautrec"
+    ],
+    "hint": "Zijn 'Zonnebloemen' zijn wereldberoemd."
+  },
+  {
+    "id": "kun-7",
+    "category": "Kunst",
+    "difficulty": 3,
+    "question": "Wie maakte het kunstwerk met een haai op sterk water, 'The Physical Impossibility of Death in the Mind of Someone Living'?",
+    "answers": [
+      "Damien Hirst",
+      "Hirst"
+    ],
+    "choices": [
+      "Jeff Koons",
+      "Ai Weiwei",
+      "Tracey Emin",
+      "Damien Hirst"
+    ],
+    "hint": "Een Britse kunstenaar uit de Young British Artists-generatie."
+  },
+  {
+    "id": "act-1",
+    "category": "Actualiteit",
+    "difficulty": 1,
+    "question": "In welke stad vonden de Olympische Zomerspelen van 2024 plaats?",
+    "answers": [
+      "Parijs",
+      "Paris"
+    ],
+    "choices": [
+      "Parijs",
+      "Los Angeles",
+      "Tokio",
+      "Milaan"
+    ],
+    "hint": "De Eiffeltoren was decor voor de openingsceremonie."
+  },
+  {
+    "id": "act-2",
+    "category": "Actualiteit",
+    "difficulty": 1,
+    "question": "Welk land won het Eurovisiesongfestival van 2024?",
+    "answers": [
+      "Zwitserland",
+      "Switzerland"
+    ],
+    "choices": [
+      "Kroatië",
+      "Zwitserland",
+      "Oekraïne",
+      "Zweden"
+    ],
+    "hint": "Nemo won met het nummer 'The Code'."
+  },
+  {
+    "id": "act-3",
+    "category": "Actualiteit",
+    "difficulty": 2,
+    "question": "Wie is sinds oktober 2024 secretaris-generaal van de NAVO?",
+    "answers": [
+      "Mark Rutte",
+      "Rutte"
+    ],
+    "choices": [
+      "Jens Stoltenberg",
+      "Mark Rutte",
+      "Ursula von der Leyen",
+      "António Guterres"
+    ],
+    "hint": "Een Nederlandse oud-premier."
+  },
+  {
+    "id": "act-4",
+    "category": "Actualiteit",
+    "difficulty": 2,
+    "question": "Welke ondernemer nam in 2022 Twitter over?",
+    "answers": [
+      "Elon Musk",
+      "Musk"
+    ],
+    "choices": [
+      "Jeff Bezos",
+      "Bill Gates",
+      "Elon Musk",
+      "Mark Zuckerberg"
+    ],
+    "hint": "Hij is ook baas van Tesla en SpaceX."
+  },
+  {
+    "id": "act-5",
+    "category": "Actualiteit",
+    "difficulty": 2,
+    "question": "In welke stad vonden de Olympische Winterspelen van 2022 plaats?",
+    "answers": [
+      "Peking",
+      "Beijing"
+    ],
+    "choices": [
+      "Pyeongchang",
+      "Sotsji",
+      "Milaan",
+      "Peking"
+    ],
+    "hint": "De hoofdstad van China."
+  },
+  {
+    "id": "act-6",
+    "category": "Actualiteit",
+    "difficulty": 3,
+    "question": "Welke Europese verordening uit 2024 moet AI-systemen veiliger maken?",
+    "answers": [
+      "AI Act",
+      "AI-verordening",
+      "Artificial Intelligence Act"
+    ],
+    "choices": [
+      "GDPR",
+      "DSA",
+      "AI Act",
+      "DMA"
+    ],
+    "hint": "Afgekort tot drie letters en een woord."
+  },
+  {
+    "id": "act-7",
+    "category": "Actualiteit",
+    "difficulty": 3,
+    "question": "Wie werd in 2024 verkozen tot president van de Verenigde Staten?",
+    "answers": [
+      "Donald Trump",
+      "Trump"
+    ],
+    "choices": [
+      "Joe Biden",
+      "Kamala Harris",
+      "Donald Trump",
+      "Ron DeSantis"
+    ],
+    "hint": "Hij was al eerder president."
+  },
+  {
+    "id": "wet-1",
+    "category": "Wetenschap",
+    "difficulty": 1,
+    "question": "Wat is het chemische symbool voor waterstof?",
+    "answers": [
+      "H",
+      "waterstof"
+    ],
+    "choices": [
+      "O",
+      "H",
+      "He",
+      "W"
+    ],
+    "hint": "Het eerste element in het periodiek systeem."
+  },
+  {
+    "id": "wet-2",
+    "category": "Wetenschap",
+    "difficulty": 1,
+    "question": "Hoeveel planeten telt ons zonnestelsel?",
+    "answers": [
+      "8",
+      "acht"
+    ],
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "hint": "Pluto is sinds 2006 geen planeet meer."
+  },
+  {
+    "id": "wet-3",
+    "category": "Wetenschap",
+    "difficulty": 2,
+    "question": "Wie beschreef de evolutietheorie in 'On the Origin of Species'?",
+    "answers": [
+      "Charles Darwin",
+      "Darwin"
+    ],
+    "choices": [
+      "Gregor Mendel",
+      "Alfred Wallace",
+      "Charles Darwin",
+      "Lamarck"
+    ],
+    "hint": "Hij reisde mee op het schip de Beagle."
+  },
+  {
+    "id": "wet-4",
+    "category": "Wetenschap",
+    "difficulty": 2,
+    "question": "Wat is de hardste natuurlijke stof op aarde?",
+    "answers": [
+      "Diamant",
+      "Diamond"
+    ],
+    "choices": [
+      "Goud",
+      "Kwarts",
+      "Grafiet",
+      "Diamant"
+    ],
+    "hint": "Het is een vorm van koolstof."
+  },
+  {
+    "id": "wet-5",
+    "category": "Wetenschap",
+    "difficulty": 2,
+    "question": "Welk orgaan in het menselijk lichaam produceert insuline?",
+    "answers": [
+      "Alvleesklier",
+      "Pancreas"
+    ],
+    "choices": [
+      "Lever",
+      "Nieren",
+      "Alvleesklier",
+      "Milt"
+    ],
+    "hint": "Het ligt achter de maag."
+  },
+  {
+    "id": "wet-6",
+    "category": "Wetenschap",
+    "difficulty": 3,
+    "question": "Wat is de eenheid van elektrische weerstand?",
+    "answers": [
+      "Ohm",
+      "Ω"
+    ],
+    "choices": [
+      "Volt",
+      "Ampère",
+      "Watt",
+      "Ohm"
+    ],
+    "hint": "Genoemd naar een Duitse natuurkundige."
+  },
+  {
+    "id": "wet-7",
+    "category": "Wetenschap",
+    "difficulty": 3,
+    "question": "Welk deeltje werd in 2012 ontdekt met de Large Hadron Collider?",
+    "answers": [
+      "Higgsboson",
+      "Higgs-deeltje",
+      "Higgs"
+    ],
+    "choices": [
+      "Neutrino",
+      "Quark",
+      "Antimaterie",
+      "Higgsboson"
+    ],
+    "hint": "Het wordt ook wel het 'goddeeltje' genoemd."
+  },
+  {
+    "id": "spo-1",
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Met hoeveel spelers staat een voetbalteam op het veld?",
+    "answers": [
+      "11",
+      "elf"
+    ],
+    "choices": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "hint": "Inclusief de keeper."
+  },
+  {
+    "id": "spo-2",
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "In welk land werden de eerste moderne Olympische Spelen gehouden?",
+    "answers": [
+      "Griekenland",
+      "Greece",
+      "Athene",
+      "Athens"
+    ],
+    "choices": [
+      "Frankrijk",
+      "Griekenland",
+      "Engeland",
+      "Italië"
+    ],
+    "hint": "In 1896, in Athene."
+  },
+  {
+    "id": "spo-3",
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Hoeveel Formule 1-wereldtitels heeft Max Verstappen tot en met 2024 gewonnen?",
+    "answers": [
+      "4",
+      "vier"
+    ],
+    "choices": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "hint": "Hij won vier jaar op rij."
+  },
+  {
+    "id": "spo-4",
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Welke Nederlandse club won in 1988 de Europacup I?",
+    "answers": [
+      "PSV",
+      "PSV Eindhoven"
+    ],
+    "choices": [
+      "Ajax",
+      "Feyenoord",
+      "AZ",
+      "PSV"
+    ],
+    "hint": "De club komt uit Eindhoven."
+  },
+  {
+    "id": "spo-5",
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Hoeveel punten levert een rake driepunter op bij basketbal?",
+    "answers": [
+      "3",
+      "drie"
+    ],
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "hint": "Je schiet van buiten de grote boog."
+  },
+  {
+    "id": "spo-6",
+    "category": "Sport",
+    "difficulty": 3,
+    "question": "Wie won in 2023 de Tour de France bij de mannen?",
+    "answers": [
+      "Jonas Vingegaard",
+      "Vingegaard"
+    ],
+    "choices": [
+      "Tadej Pogačar",
+      "Remco Evenepoel",
+      "Jonas Vingegaard",
+      "Primož Roglič"
+    ],
+    "hint": "Hij komt uit Denemarken."
+  },
+  {
+    "id": "spo-7",
+    "category": "Sport",
+    "difficulty": 3,
+    "question": "In welke sport speel je met een shuttle?",
+    "answers": [
+      "Badminton"
+    ],
+    "choices": [
+      "Tennis",
+      "Squash",
+      "Tafeltennis",
+      "Badminton"
+    ],
+    "hint": "De shuttle heeft veren."
+  },
+  {
+    "id": "mem-1",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "What vehicle is former Prime Minister Mark Rutte famous for riding to meet the King, spawning a thousand iconic Dutch memes?",
+    "answers": [
+      "Bicycle",
+      "bike",
+      "fiets",
+      "bicykel",
+      "a bike"
+    ],
+    "choices": [
+      "Bicycle",
+      "Scooter",
+      "Tram",
+      "Horse"
+    ],
+    "hint": "Two wheels, no motor, and a helmet he almost never wears."
+  },
+  {
+    "id": "mem-2",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "According to Carola Schouten's iconic parliamentary meme, what fruit do Dutch politicians occasionally have to swallow to compromise?",
+    "answers": [
+      "Melon",
+      "meloen",
+      "a melon",
+      "watermeloen",
+      "watermelon"
+    ],
+    "choices": [
+      "Melon",
+      "Apple",
+      "Banana",
+      "Pear"
+    ],
+    "hint": "Big, round, and apparently the going price for a coalition deal."
+  },
+  {
+    "id": "mem-3",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "Which iconic meme character—frequently featured in Dutch political shitposts—did Thierry Baudet compare himself or get associated with online?",
+    "answers": [
+      "Pepe",
+      "pepe the frog",
+      "pepe frog",
+      "frog"
+    ],
+    "choices": [
+      "Pepe",
+      "Doge",
+      "Shrek",
+      "SpongeBob"
+    ],
+    "hint": "A green frog with a very smug, slightly melancholic face."
+  },
+  {
+    "id": "mem-4",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "What infamous memory malfunction did Mark Rutte famously cite in parliament during the 2021 “functie elders” scandal?",
+    "answers": [
+      "No active memory",
+      "active memory",
+      "geen actieve herinnering",
+      "actieve herinnering",
+      "forgot",
+      "bad memory",
+      "no memory"
+    ],
+    "choices": [
+      "No active memory",
+      "A broken hard drive",
+      "Sleep deprivation",
+      "A bad translation"
+    ],
+    "hint": "A phrase every Dutch person can now recite: “geen actieve…”"
+  },
+  {
+    "id": "mem-5",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "Which Dutch party leader went viral on Twitter for tweeting “We hebben een serieus probleem”?",
+    "answers": [
+      "Geert Wilders",
+      "wilders",
+      "geert",
+      "g wilders",
+      "g. wilders"
+    ],
+    "choices": [
+      "Geert Wilders",
+      "Frans Timmermans",
+      "Jesse Klaver",
+      "Sigrid Kaag"
+    ],
+    "hint": "The blonde PVV leader with the famously voluminous hair."
+  },
+  {
+    "id": "mem-6",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "What is the universally agreed-upon time (in minutes) for a microwave pizza to feel like it is taking an absolute eternity?",
+    "answers": [
+      "10 minutes",
+      "10",
+      "ten mins",
+      "ten minutes",
+      "10 mins",
+      "ten"
+    ],
+    "choices": [
+      "10 minutes",
+      "2 minutes",
+      "5 minutes",
+      "25 minutes"
+    ],
+    "hint": "Short enough to be reasonable, long enough to question your life."
+  },
+  {
+    "id": "mem-7",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "What color is the classic, legendary bag of Doritos that pairs best with a 4:20 session?",
+    "answers": [
+      "Nacho Cheese",
+      "nacho",
+      "orange",
+      "cheese",
+      "nacho cheese doritos"
+    ],
+    "choices": [
+      "Nacho Cheese",
+      "Cool Original",
+      "Sweet Chili",
+      "Paprika"
+    ],
+    "hint": "Orange fingers are the badge of honour."
+  },
+  {
+    "id": "mem-8",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "What edible household item becomes a gourmet five-star meal at 3:00 AM after taking a heavy edible?",
+    "answers": [
+      "Shredded cheese",
+      "cheese",
+      "cold pizza",
+      "leftovers",
+      "cereal",
+      "toast",
+      "ramen"
+    ],
+    "choices": [
+      "Shredded cheese",
+      "Cold pizza",
+      "Leftovers",
+      "Cereal"
+    ],
+    "hint": "Straight from the bag, standing in front of the open fridge."
+  },
+  {
+    "id": "mem-9",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "What is the scientific name for the overwhelming urge to eat your entire pantry while high?",
+    "answers": [
+      "Munchies",
+      "munchy",
+      "the munchies",
+      "hunger",
+      "starving"
+    ],
+    "choices": [
+      "Munchies",
+      "The itis",
+      "Cravings",
+      "Hangry"
+    ],
+    "hint": "Plural, and it comes with a side of crisps."
+  },
+  {
+    "id": "mem-10",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "What streaming platform automatically asks “Are you still watching?” right at the peak of your existential high?",
+    "answers": [
+      "Netflix",
+      "netfix",
+      "netflx",
+      "neftlix"
+    ],
+    "choices": [
+      "Netflix",
+      "Disney+",
+      "HBO Max",
+      "Prime Video"
+    ],
+    "hint": "The red one with the sound that goes “ta-dum”."
+  },
+  {
+    "id": "mem-11",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "What famous single word did an antique expert repeatedly yell when demanding a presenter shorten his story?",
+    "answers": [
+      "Mand",
+      "mandje",
+      "de mand"
+    ],
+    "choices": [
+      "Mand",
+      "Kist",
+      "Vaas",
+      "Kruk"
+    ],
+    "hint": "The Dutch word for a basket, shouted with rising impatience."
+  },
+  {
+    "id": "mem-12",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "What sound effect made famous by LuckyTV is played whenever something violently explodes or blows up?",
+    "answers": [
+      "Biem",
+      "bem",
+      "beam",
+      "bim"
+    ],
+    "choices": [
+      "Biem",
+      "Boem",
+      "Knal",
+      "Pets"
+    ],
+    "hint": "One syllable, three letters: the cartoon explosion noise."
+  },
+  {
+    "id": "mem-13",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "In the viral Dumpert video, how much money does the man famously offer to hit someone “op je muil”?",
+    "answers": [
+      "5 euro",
+      "5",
+      "vijf euro",
+      "5eur",
+      "5 euro's",
+      "vijf"
+    ],
+    "choices": [
+      "5 euro",
+      "10 euro",
+      "25 euro",
+      "100 euro"
+    ],
+    "hint": "A coin, not a note."
+  },
+  {
+    "id": "mem-14",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "What food product does the iconic internet guy aggressively scream that he wants while staring into the camera?",
+    "answers": [
+      "Kaas",
+      "cheese",
+      "ik wil kaas"
+    ],
+    "choices": [
+      "Kaas",
+      "Worst",
+      "Brood",
+      "Melk"
+    ],
+    "hint": "Yellow, Dutch, and yelled at full volume."
+  },
+  {
+    "id": "mem-15",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "Complete the iconic phrase spoken by the relaxed guy in the interview: “Blikje in de water... Ik vind...”",
+    "answers": [
+      "Helemaal mooi",
+      "helemaal mooi!",
+      "mooi",
+      "helmaal mooi"
+    ],
+    "choices": [
+      "Helemaal mooi",
+      "Helemaal kut",
+      "Een beetje raar",
+      "Best gezellig"
+    ],
+    "hint": "Everything is going just fine, apparently."
+  },
+  {
+    "id": "mem-16",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "What car brand became an instant meme when an interviewer shouted it at a passing luxury vehicle?",
+    "answers": [
+      "BMW",
+      "dikke bmw",
+      "bmw'tje"
+    ],
+    "choices": [
+      "BMW",
+      "Mercedes",
+      "Audi",
+      "Porsche"
+    ],
+    "hint": "A German badge on a very expensive car."
+  },
+  {
+    "id": "mem-17",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "In the viral clip from Probleemwijken, what specific Dutch bank does the man blame for all of his problems?",
+    "answers": [
+      "Rabobank",
+      "rabo",
+      "de rabobank"
+    ],
+    "choices": [
+      "Rabobank",
+      "ING",
+      "ABN AMRO",
+      "SNS"
+    ],
+    "hint": "The one with the blue and orange cube logo."
+  },
+  {
+    "id": "mem-18",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "What snack does the legendary character Michael in New Kids order at the snackbar with his iconic accent?",
+    "answers": [
+      "Broodje bakpao",
+      "bakpao",
+      "broodje bapao",
+      "bapao",
+      "een broodje bakpao"
+    ],
+    "choices": [
+      "Broodje bakpao",
+      "Frikandel",
+      "Kroket",
+      "Patatje oorlog"
+    ],
+    "hint": "A steamed bun, ordered very, very slowly."
+  },
+  {
+    "id": "mem-19",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "What iconic video game parody series created by MasterMovies famously featured Barry Pooter and Zeebats?",
+    "answers": [
+      "MasterMovies",
+      "master movies",
+      "mastermovies.nl"
+    ],
+    "choices": [
+      "MasterMovies",
+      "New Kids",
+      "LuckyTV",
+      "Rundfunk"
+    ],
+    "hint": "The name is right there in the question."
+  },
+  {
+    "id": "mem-20",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "What legendary party hit by René Karst became an absolute anthem and meme about wearing glasses?",
+    "answers": [
+      "Atje voor de sfeer",
+      "atje",
+      "atje voor de sfeer!",
+      "adje voor de sfeer"
+    ],
+    "choices": [
+      "Atje voor de sfeer",
+      "Het is een nacht",
+      "Vrienden voor het leven",
+      "Ik neem je mee"
+    ],
+    "hint": "One little “atje”, purely for the atmosphere."
+  },
+  {
+    "id": "mem-21",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "What type of soup did a legendary internet clip turn into a meme with the phrase “En toen kwam de aap uit de...”?",
+    "answers": [
+      "Bamisoep",
+      "bami soep",
+      "bami"
+    ],
+    "choices": [
+      "Bamisoep",
+      "Tomatensoep",
+      "Erwtensoep",
+      "Kippensoep"
+    ],
+    "hint": "Noodles — and a monkey coming out of a sleeve."
+  },
+  {
+    "id": "mem-22",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "In the viral video where a guy slides down a frozen ramp, what weather condition does he complain about?",
+    "answers": [
+      "Keiglad",
+      "glad",
+      "kei glad",
+      "het is keiglad"
+    ],
+    "choices": [
+      "Keiglad",
+      "Keikoud",
+      "Keiwarm",
+      "Keiwinderig"
+    ],
+    "hint": "Slippery, with a Brabant prefix."
+  },
+  {
+    "id": "mem-23",
+    "category": "Memes",
+    "difficulty": 3,
+    "question": "What kind of pet animal is the focus of the iconic meme clip screaming “DIEREN!” by LuckyTV?",
+    "answers": [
+      "Freek Vonk",
+      "freek",
+      "freek vonk dieren"
+    ],
+    "choices": [
+      "Freek Vonk",
+      "Een hond",
+      "Een papegaai",
+      "Een kat"
+    ],
+    "hint": "Not an animal at all, but the TV biologist who loves them."
+  },
+  {
+    "id": "mem-24",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "What beverage does the kid in the classic viral clip say he wants to drink because he wants to “eventjes lekker...”?",
+    "answers": [
+      "Dansen",
+      "eventjes lekker dansen",
+      "dance"
+    ],
+    "choices": [
+      "Dansen",
+      "Slapen",
+      "Eten",
+      "Springen"
+    ],
+    "hint": "Not a drink at all: he just wants to dance."
+  },
+  {
+    "id": "mem-25",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "What object does a frustrated man claim he goddamn wants to do in the famous Der Untergang Dutch parody dub?",
+    "answers": [
+      "Bowlen",
+      "bowling",
+      "ik wil bowlen"
+    ],
+    "choices": [
+      "Bowlen",
+      "Voetballen",
+      "Zuipen",
+      "Slapen"
+    ],
+    "hint": "He wants to go bowling. That is the entire tantrum."
+  },
+  {
+    "id": "mem-26",
+    "category": "Memes",
+    "difficulty": 1,
+    "question": "What is the short name of the Dutch viral video platform where almost all classic memes end up getting crowned with a “Reamster”?",
+    "answers": [
+      "Dumpert",
+      "dumpert.nl",
+      "dumbert"
+    ],
+    "choices": [
+      "Dumpert",
+      "GeenStijl",
+      "YouTube",
+      "TikTok"
+    ],
+    "hint": "Yellow logo, one word, part of GeenStijl."
+  },
+  {
+    "id": "mem-27",
+    "category": "Memes",
+    "difficulty": 3,
+    "question": "In the classic internet clip, what food does the man say he is eating: “Een broodje met...”?",
+    "answers": [
+      "Beleg",
+      "broodje beleg",
+      "met beleg"
+    ],
+    "choices": [
+      "Beleg",
+      "Kaas",
+      "Hagelslag",
+      "Pindakaas"
+    ],
+    "hint": "Not a topping — just the general word for what is on a sandwich."
+  },
+  {
+    "id": "mem-28",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "What famous cartoon character created by Jonas Geirnaert is known for short, aggressive episodes and shouting “Turbo, turbo!”?",
+    "answers": [
+      "Kabouter Wesley",
+      "wesley",
+      "kabouterwesley"
+    ],
+    "choices": [
+      "Kabouter Wesley",
+      "Kabouter Plop",
+      "Buurman en Buurman",
+      "Alfred J. Kwak"
+    ],
+    "hint": "A tiny, furious gnome from Flanders."
+  },
+  {
+    "id": "mem-29",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "What regional Dutch phrase went viral when a tractor pulling three trailers passed by (“Pwoaaahh...!”)?",
+    "answers": [
+      "3 karren",
+      "3 karren joh",
+      "drie karren",
+      "3 karren joh!"
+    ],
+    "choices": [
+      "3 karren",
+      "2 karren",
+      "4 karren",
+      "5 karren"
+    ],
+    "hint": "Count the trailers behind the tractor."
+  },
+  {
+    "id": "mem-30",
+    "category": "Memes",
+    "difficulty": 2,
+    "question": "What specific Dutch city code is famously touted in internet culture as being “beter als 020”?",
+    "answers": [
+      "030",
+      "utrecht",
+      "030 utrecht"
+    ],
+    "choices": [
+      "030",
+      "010",
+      "020",
+      "070"
+    ],
+    "hint": "Utrecht’s area code — and 020 is Amsterdam."
+  }
+]

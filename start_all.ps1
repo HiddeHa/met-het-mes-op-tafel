@@ -1,2 +1,0 @@
-﻿powershell -WindowStyle Hidden -Command "Start-Process -FilePath 'C:\Program Files\nodejs\node.exe' -ArgumentList 'C:\Users\hidde\Documents\Personal Projects\met het mes op tafel\server\index.js'"
-powershell -WindowStyle Hidden -Command "Start-Process -FilePath 'C:\Program Files\nodejs\node.exe' -ArgumentList 'C:\Users\hidde\Documents\Personal Projects\met het mes op tafel\client\node_modules\vite\bin\vite.js', '--host' -WorkingDirectory 'C:\Users\hidde\Documents\Personal Projects\met het mes op tafel\client'"

@@ -63,10 +63,40 @@ Things worth knowing:
   rejoin the same table after a reload or a short network drop.
 - Windows may ask to allow Node through the firewall the first time. Allow it on
   private networks, otherwise the other PC cannot connect.
-- To play outside your own network, run the game on a machine the other player
-  can reach: `npm run build && npm start` serves the app and the WebSocket on a
-  single port (default `8787`), which you can expose through your own host or a
-  tunnel.
+- Players on another network cannot use the `192.168.x.x` invite link — see
+  **Sharing over the internet** below.
+
+## Sharing over the internet
+
+The invite link the waiting room shows contains your local address, so it only
+works inside your own network. To let someone elsewhere join, expose the game
+through a tunnel.
+
+1. Build and serve the app from one port (stop `npm run dev` first, it holds
+   `8787`):
+
+   ```bash
+   npm run build && npm start
+   ```
+
+2. Tunnel that port with [cloudflared](https://developers.cloudflare.com/tunnel/get-started/quick-tunnels/)
+   (no account needed):
+
+   ```bash
+   cloudflared tunnel --url http://localhost:8787
+   ```
+
+   It prints a public `https://….trycloudflare.com` address. Open that address
+   yourself, create a table, and send the invite link it now shows — the link
+   picks up the public hostname automatically.
+
+Worth knowing: a quick tunnel's hostname is random and changes every time
+cloudflared restarts; the PC running it has to stay awake; anyone with the URL
+can reach the lobby, though a table code is still needed to sit down; and rooms
+live in memory, so restarting the server ends open tables. If you would rather
+run the dev server behind the tunnel, `vite.config.ts` already allows
+`*.trycloudflare.com` — point the tunnel at port `5173` instead and the `/ws`
+proxy follows.
 
 ## Rules in one minute
 

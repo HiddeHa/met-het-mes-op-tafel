@@ -9,7 +9,7 @@
     "dev:client": "vite",
     "dev:server": "tsx watch server/main.ts",
     "build": "tsc --noEmit && vite build",
-    "start": "tsx server/index.ts --serve",
+    "start": "tsx server/main.ts --serve",
     "preview": "vite preview",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"

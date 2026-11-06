@@ -6,6 +6,10 @@ export type Category =
   | 'Actualiteit'
   | 'Wetenschap'
   | 'Sport'
+  | 'TV & Reality Drama'
+  | 'Popmuziek & Viral Memes'
+  | 'Internetcultuur & Actualiteit'
+  | 'Bekende Nederlanders & Culthelden'
   | 'Memes';
 
 export type Difficulty = 1 | 2 | 3;

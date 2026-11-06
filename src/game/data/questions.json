@@ -1408,5 +1408,230 @@
       "070"
     ],
     "hint": "Utrecht’s area code — and 020 is Amsterdam."
+  },
+  {
+    "id": "tv-1",
+    "category": "TV & Reality Drama",
+    "difficulty": 2,
+    "question": "Welke bekende Nederlander zorgde voor hilariteit op Schiphol door tv-kandidaten bij de douane op te wachten voor het programma Hello Goodbye?",
+    "answers": [
+      "Joris Linssen",
+      "Joris",
+      "Linssen"
+    ]
+  },
+  {
+    "id": "tv-2",
+    "category": "TV & Reality Drama",
+    "difficulty": 2,
+    "question": "In het tv-seizoen van B&B Vol Liefde zocht elke eigenaar weer naar romantiek. Wat is de voornaam van de bekende presentator die de reünie-afleveringen aan elkaar praat?",
+    "answers": [
+      "Art Rooijakkers",
+      "Art",
+      "Rooijakkers"
+    ]
+  },
+  {
+    "id": "tv-3",
+    "category": "TV & Reality Drama",
+    "difficulty": 1,
+    "question": "Welke Nederlandse zanger en presentator won ooit de allereerste editie van Idols in 2003 en schoof recent aan bij Dit Was Het Nieuws?",
+    "answers": [
+      "Jamai Loman",
+      "Jamai",
+      "Loman"
+    ]
+  },
+  {
+    "id": "tv-4",
+    "category": "TV & Reality Drama",
+    "difficulty": 1,
+    "question": "In welk RTL-programma verhuizen stellen naar een compleet onbekend huis dat voor hen is gekocht zonder dat ze het vooraf hebben gezien?",
+    "answers": [
+      "Kopen Zonder Kijken",
+      "KZK"
+    ]
+  },
+  {
+    "id": "tv-5",
+    "category": "TV & Reality Drama",
+    "difficulty": 3,
+    "question": "Welke bekende Nederlandse presentatrice bracht internet in beroering door haar unieke humor en scherpe items bij onder meer De Verraders en de kieswijzer-debatten?",
+    "answers": [
+      "Emma Wortelboer",
+      "Emma",
+      "Wortelboer"
+    ]
+  },
+  {
+    "id": "pop-1",
+    "category": "Popmuziek & Viral Memes",
+    "difficulty": 1,
+    "question": "Welk iconisch meidentrio veroorzaakte een enorme storm aan nostalgie toen de originele bezetting (Karen, Kristel en Kathleen) een reünie aankondigde?",
+    "answers": [
+      "K3",
+      "De K3'tjes",
+      "K 3",
+      "K-3"
+    ]
+  },
+  {
+    "id": "pop-2",
+    "category": "Popmuziek & Viral Memes",
+    "difficulty": 1,
+    "question": "Welk bekende muzikale duo scoorde hit na hit in de Nederlandse Top 40 met nummers als Als Het Avond Is en De Broek Aan?",
+    "answers": [
+      "Suzan & Freek",
+      "Suzan en Freek",
+      "Freek en Suzan"
+    ]
+  },
+  {
+    "id": "pop-3",
+    "category": "Popmuziek & Viral Memes",
+    "difficulty": 1,
+    "question": "Welke Nederlandse rapper en zanger scoorde gigantische hits met nummers als Energie, Vol Lopen en bracht recent weer nieuwe tracks uit?",
+    "answers": [
+      "Ronnie Flex",
+      "Ronell Plasschaert",
+      "Ronnie",
+      "Flex"
+    ]
+  },
+  {
+    "id": "pop-4",
+    "category": "Popmuziek & Viral Memes",
+    "difficulty": 1,
+    "question": "Wat is de naam van het vrolijke kinderkoor van de VARA/BNNVARA dat al decennialang bekende hits scoort?",
+    "answers": [
+      "Kinderen voor Kinderen",
+      "KvK"
+    ]
+  },
+  {
+    "id": "pop-5",
+    "category": "Popmuziek & Viral Memes",
+    "difficulty": 1,
+    "question": "Met welk nummer vertegenwoordigde Joost Klein Nederland op het Eurovisie Songfestival, wat leidde tot een wereldwijde viral trend?",
+    "answers": [
+      "Europapa",
+      "Euro papa"
+    ]
+  },
+  {
+    "id": "int-1",
+    "category": "Internetcultuur & Actualiteit",
+    "difficulty": 2,
+    "question": "Welk schattig maar vreemd pluchen figuurtje met konijnenoren en scherpe tanden werd een gigantische rage op TikTok en Marktplaats?",
+    "answers": [
+      "Labubu",
+      "La bubu",
+      "Labubu's",
+      "Pop Mart Labubu"
+    ]
+  },
+  {
+    "id": "int-2",
+    "category": "Internetcultuur & Actualiteit",
+    "difficulty": 3,
+    "question": "Welk satirisch/journalistiek YouTube-kanaal staat bekend om het overvallen van politici met rode microfoons en direct confrontatie-interviewen op straat?",
+    "answers": [
+      "Left Laser",
+      "LeftLaser",
+      "Bob Sneevliet / Left Laser"
+    ]
+  },
+  {
+    "id": "int-3",
+    "category": "Internetcultuur & Actualiteit",
+    "difficulty": 2,
+    "question": "Welke fiscale term wordt in Nederland continu besproken rondom de woningmarkt en het kopen van een eerste huis?",
+    "answers": [
+      "Hypotheekrenteaftrek",
+      "HRA",
+      "Hypotheekrente aftrek",
+      "Huisrenteaftrek"
+    ]
+  },
+  {
+    "id": "int-4",
+    "category": "Internetcultuur & Actualiteit",
+    "difficulty": 2,
+    "question": "Welke bekende Nederlandse interviewer en voormalig Zomergasten-presentator schreef vele bekende cultuur- en maatschappijessays?",
+    "answers": [
+      "Bas Heijne",
+      "Bas",
+      "Heijne"
+    ]
+  },
+  {
+    "id": "int-5",
+    "category": "Internetcultuur & Actualiteit",
+    "difficulty": 2,
+    "question": "Hoe heet het grootste popcultuur- en cosplayfestival van Nederland dat jaarlijks in de Jaarbeurs in Utrecht plaatsvindt?",
+    "answers": [
+      "Heroes Dutch Comic Con",
+      "Dutch Comic Con",
+      "Comic Con",
+      "HDCC",
+      "DCC"
+    ]
+  },
+  {
+    "id": "bnl-1",
+    "category": "Bekende Nederlanders & Culthelden",
+    "difficulty": 1,
+    "question": "Welke Nederlandse zanger en mediapersoonlijkheid staat bekend om zijn uitgesproken uitspraken en tv-optredens?",
+    "answers": [
+      "Gordon",
+      "Gordon Heuckeroth",
+      "Goor"
+    ]
+  },
+  {
+    "id": "bnl-2",
+    "category": "Bekende Nederlanders & Culthelden",
+    "difficulty": 2,
+    "question": "Welke voormalige Nederlandse dressuurkampioene verraste vriend en vijand door op te treden in het tv-programma The Masked Singer?",
+    "answers": [
+      "Anky van Grunsven",
+      "Anky",
+      "Van Grunsven"
+    ]
+  },
+  {
+    "id": "bnl-3",
+    "category": "Bekende Nederlanders & Culthelden",
+    "difficulty": 1,
+    "question": "Hoe heet het populaire Nederlandse satirische nieuwsplatform met artikelen als \"Man vindt na 10 jaar eindelijk de juiste HDMI-ingang op tv\"?",
+    "answers": [
+      "De Speld",
+      "Speld",
+      "Speld.nl",
+      "DeSpeld"
+    ]
+  },
+  {
+    "id": "bnl-4",
+    "category": "Bekende Nederlanders & Culthelden",
+    "difficulty": 1,
+    "question": "Welke Nederlandse politicus en partijleider staat bekend om zijn opvallende optredens in debatten rondom klimaat- en energiebeleid?",
+    "answers": [
+      "Rob Jetten",
+      "Jetten",
+      "Rob",
+      "Jetten (D66)"
+    ]
+  },
+  {
+    "id": "bnl-5",
+    "category": "Bekende Nederlanders & Culthelden",
+    "difficulty": 1,
+    "question": "Welke Nederlandse top-atlete en meervoudig olympisch kampioene domineert al jaren het wielrennen op de weg en in het veld?",
+    "answers": [
+      "Marianne Vos",
+      "Marianne",
+      "Vos"
+    ]
   }
 ]

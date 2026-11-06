@@ -1,4 +1,4 @@
-import rawQuestions from './data/questions.json';
+import rawQuestions from './data/questions.json' with { type: 'json' };
 import { shuffle, makeRng } from './rng';
 import type {
   Category,
@@ -19,6 +19,10 @@ export const CATEGORIES: Category[] = [
   'Actualiteit',
   'Wetenschap',
   'Sport',
+  'TV & Reality Drama',
+  'Popmuziek & Viral Memes',
+  'Internetcultuur & Actualiteit',
+  'Bekende Nederlanders & Culthelden',
   'Memes',
 ];
 

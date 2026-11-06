@@ -3211,6 +3211,13 @@ kbd {
     font-size: 0.56rem;
   }
 
+  /* iOS Safari zooms the page whenever a focused field is under 16px. */
+  .answer-input,
+  .answer-q-row .answer-input,
+  .name-field input {
+    font-size: 1rem;
+  }
+
   .game {
     gap: 10px;
     padding: 10px 10px 13px;

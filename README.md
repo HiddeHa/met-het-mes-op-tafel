@@ -167,8 +167,54 @@ npm run dev:server  # game server only (port 8787)
 npm run build       # typecheck + production build
 npm start           # serve dist and the WebSocket on one port
 npm test            # vitest run
+npm run test:e2e    # build + Playwright: speelt complete potjes in Chromium
+npm run test:e2e:headed  # hetzelfde, met een zichtbaar browservenster
 npm run typecheck   # tsc --noEmit
 ```
+
+## Testing
+
+Two layers, one command each. The game is a state machine that spans screens,
+so the interesting failures are not in a single function: they are a sheet that
+lands in the wrong seat, a pot that is claimed by a folded player, a round that
+skips a phase. The tests are aimed at exactly that.
+
+### Unit and integration — `npm test`
+
+44 Vitest tests over five files, no browser needed, under two seconds:
+
+| File | Tests | What it pins down |
+|---|---|---|
+| `machine.test.ts` | 32 | the reducer: turns, bid steps, folding, pot division, shootout, carry-over |
+| `matching.test.ts` | 5 | answer matching: case, accents, articles, typos, alternative spellings |
+| `projection.test.ts` | 3 | what each player receives over the socket — another player's sheet stays closed |
+| `online.test.ts` | 3 | rooms: create, join, start, and no secret sheets in the protocol |
+| `simulation.test.ts` | 1 | twenty complete games against the bots, checked for illegal state |
+
+The projection tests are the security-relevant ones: they assert the server,
+not the UI, is what keeps the other sheets hidden. A change that leaks them
+fails there even if the screens look right.
+
+### End-to-end — `npm run test:e2e`
+
+This builds the app, serves it on port `8899` in a temporary Node process (so a
+live table on `8787` is left alone) and plays four complete games in Chromium:
+
+- a solo classic game of five rounds, through the shootout and the end screen;
+- a solo meme game of five rounds;
+- a three-player local game with the pass-the-screen curtain;
+- a two-player online game in two browser contexts, joined with a room code.
+
+Each round the scripts read the four questions from the screen, answer them
+from `src/game/data/questions.json`, check the answer reveal, bid, check the
+pot and score, and finish the shootout. They read the question bank instead of
+hard-coding answers, so the suite keeps working when questions change — and
+fails loudly if the screen shows a question that is not in the bank.
+
+Run `npx playwright install chromium` once to fetch the browser. A failure
+keeps a screenshot in `test-results/` (add `--trace on` for a Playwright
+trace); the config also gives each run its own server and a 1280×900 viewport,
+so a run never depends on a table that happens to be open.
 
 ## Notes
 

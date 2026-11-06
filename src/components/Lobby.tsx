@@ -20,11 +20,15 @@ const MODES: { id: LobbyMode; name: string; sub: string; emoji: string }[] = [
   { id: 'online', name: 'Online', sub: 'Met een vriend, eigen scherm', emoji: '🌐' },
 ];
 
+const CLASSIC_CATEGORIES = new Set(
+  deckQuestions('classic').map((question) => question.category),
+).size;
+
 const DECKS: { id: QuestionDeck; name: string; sub: string }[] = [
   {
     id: 'classic',
     name: DECK_LABELS.classic,
-    sub: `${deckQuestions('classic').length} vragen · 7 categorieën`,
+    sub: `${deckQuestions('classic').length} vragen · ${CLASSIC_CATEGORIES} categorieën`,
   },
   {
     id: 'memes',
@@ -315,7 +319,7 @@ export function Lobby({
                 <p className="field-note">
                   {deck === 'memes'
                     ? 'Alleen memevragen, uit één categorie. Maximaal zeven rondes.'
-                    : 'De klassieke triviabank met zeven categorieën.'}
+                    : `De klassieke triviabank met ${CLASSIC_CATEGORIES} categorieën.`}
                 </p>
               </div>
 
